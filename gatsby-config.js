@@ -5,6 +5,12 @@ module.exports = {
     author: `@gatsbyjs`,
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-netlify-identity`,
+      options: {
+        url: `gracious-johnson-d124e9.netlify.com` // required!
+      }
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
