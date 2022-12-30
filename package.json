@@ -6,7 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "faunadb": "^2.9.3",
-    "gatsby": "^2.17.6",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.2.30",
     "gatsby-plugin-manifest": "^2.2.25",
     "gatsby-plugin-netlify-identity": "0.0.3",
